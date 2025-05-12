@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "name": "Literature Foundation and Review",
+      "description": "Literature surveys and theoretical frameworks providing field overview",
+      "weight": 1
+    },
+    {
+      "name": "Platform Design Principles",
+      "description": "Core principles and best practices for student self-help platform design",
+      "weight": 2
+    },
+    {
+      "name": "Student Experience and Problem Analysis",
+      "description": "Research on actual student experiences and issues with existing systems",
+      "weight": 3
+    },
+    {
+      "name": "Task Management and Progress Tracking",
+      "description": "Design and implementation of task management and progress tracking systems",
+      "weight": 4
+    },
+    {
+      "name": "Integrated Platform Solutions",
+      "description": "Comprehensive solutions integrating user experience, learning analytics and support systems",
+      "weight": 5
+    }
+  ]
+}

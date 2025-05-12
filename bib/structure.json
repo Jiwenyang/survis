@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "name": "Literature Foundation and Review",
+      "description": "Literature surveys and theoretical frameworks providing field overview",
+      "weight": 10,
+      "color": "#6A5ACD"  // 紫色调，代表基础与理论
+    },
+    {
+      "name": "Student Experience and Problem Analysis",
+      "description": "Research on actual student experiences and issues with existing systems",
+      "weight": 20,
+      "color": "#FF7F50"  // 珊瑚橙，强调真实反馈与用户视角
+    },
+    {
+      "name": "Platform Design Principles",
+      "description": "Core principles and best practices for student self-help platform design",
+      "weight": 30,
+      "color": "#3CB371"  // 绿色，象征建设与设计
+    },
+    {
+      "name": "Task Management and Progress Tracking",
+      "description": "Design and implementation of task management and progress tracking systems",
+      "weight": 40,
+      "color": "#1E90FF"  // 蓝色，象征任务规划与系统性
+    },
+    {
+      "name": "Integrated Platform Solutions",
+      "description": "Comprehensive solutions integrating user experience, learning analytics and support systems",
+      "weight": 50,
+      "color": "#FFD700"  // 金色，象征整合与最终目标
+    }
+  ]
+}
